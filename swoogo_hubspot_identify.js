@@ -1,4 +1,6 @@
 <script>
+/* was originally titled hubspot_hs_identify_client */
+<script>
 (function () {
   /* ====== CONFIG ====== */
   var EMAIL_SELECTOR = '#registrant-email';
